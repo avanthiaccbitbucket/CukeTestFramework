@@ -28,7 +28,7 @@ public class DriverManager
 		{		
 			case Chrome:
 			    // Implement Code for ChromeDriver
-				System.setProperty("webdriver.chrome.driver", "C:\\CukeTestFramework\\Tools\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", ".\\Tools\\chromedriver.exe");
 				driver = new ChromeDriver();   
 			    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			    driver.manage().window().maximize();
