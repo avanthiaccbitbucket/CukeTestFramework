@@ -36,8 +36,7 @@ public class FinancialReviewSteps
 		 public void BeforeTest()
 	     {
 		   System.out.println("********Starting Driver************"); 		   	
-		   //driver = WebDriverManager.GetDriver(DriverType.Chrome);
-		   driver = WebDriverManager.GetDriver(DriverType.Safari);
+		   driver = WebDriverManager.GetDriver(DriverType.Chrome);
 	     }
 			
 	     @After()
