@@ -5,9 +5,9 @@ Software Quality assurance is an ongoing process within the software development
 In recent years, the field of Software Quality Assurance (SQA) has evolved significantly in response and become an integral part of the changing technological environment.
 As a Quality Engineer role offers end to end quality assurance services focusing on delivering value at each step of the software development process .
            By introducing quality assurance early on in the development process (includes 
- Design a Test strategy approach ,
- featuring effective 
- Automated testing processes
+ 1.Design a Test strategy approach ,
+ 2.featuring effective 
+ 3.Automated testing processes
 and help organizations meet time to deadlines by mitigating risks early in the process
 
 What is shifting left - Pros and Cons of shifting left quality - 
@@ -47,16 +47,24 @@ Fewer bugs are found
 Focuses on limited areas constrained by the script
  
 In conclusion , Exploratory testing is performed to overcome the limitations of scripted testing. It helps in improving Test suite. It empathizes on learning and adaptability.
+
 Checklists for an efficient automation framework - 
-Identify which test scenarios needs to automated 
-Choosing a Test automation tool
-Identify and ability to create test data Via automation test scripts 
-Having stable test environments .
-Configuring and Running automation scripts in the test environment .
+1.Identify which test scenarios needs to automated 
+2.Choosing a Test automation tool
+3.Identify and ability to create test data Via automation test scripts 
+4.Having stable test environments .
+5.Configuring and Running automation scripts in the test environment .
 
 
 Share any experience where you have driven quality process improvements :
 
-In Fast paced environments , As agile tester Iam firm believer of teamwork , conducting bug bush sessions within the team and wider group in William hill whenever a new feature is launched .
-I was conducting the QA chapter sessions across different team QA members , Ensuring the QA practices are in place. 
-Introducing the QA estimation for every new feature in backlog grooming sessions in tabcorp for each user story .
+In Fast paced environments,
+ As agile tester I am firm believer of teamwork, conducting bug bush sessions within the team and wider group in Whenever a new feature is launched .
+
+
+I was conducting
+ the QA chapter sessions across different team QA members , Ensuring the QA practices are in place. 
+
+
+Introducing the QA
+ estimation for every new feature in backlog grooming sessions in Tabcorp for each user story .
