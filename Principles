@@ -1,0 +1,62 @@
+Principles :
+Kindly share your views (not less than 100 words) on - 
+Importance of quality in a fast-paced delivery environment - 
+Software Quality assurance is an ongoing process within the software development life cycle (SDLC) that routinely checks the developed software to ensure it meets desired quality measures.
+In recent years, the field of Software Quality Assurance (SQA) has evolved significantly in response and become an integral part of the changing technological environment.
+As a Quality Engineer role offers end to end quality assurance services focusing on delivering value at each step of the software development process .
+           By introducing quality assurance early on in the development process (includes 
+ Design a Test strategy approach ,
+ featuring effective 
+ Automated testing processes
+and help organizations meet time to deadlines by mitigating risks early in the process
+
+What is shifting left - Pros and Cons of shifting left quality - 
+
+Shifting-left refers to the idea of acting earlier within a process. So, as it identifies software testing, shift-left testing is the approach of taking the action of testing the software and moving it to the left in the delivery pipeline—or, testing the software prior in the development lifecycle than is historically typical.
+
+Pros : 
+Reduced Costs Involved in Development and Testing
+Early Bug Detection Ensures Better Code and Product Quality.
+Enhanced Test Coverage
+Effective resolution of bugs
+Cons : 
+Lack of Leadership Support & Alignment
+Lack of Testing Resources
+Lack of Tester Engagement
+The Scope of Testing Doesn’t Fit in the Build Cycle
+ 
+Exploratory testing and automated testing - Pros and Cons and how they can be synergized - 
+
+Exploratory testing 
+       Pros
+Ability to analyze the application as it will be used when it is live
+Helps in finding usability & UI issues .
+The testing outcomes depend on testers’ creativity, experience, & skill
+Project owners can get insights which were not possible to get with scripted tests.
+       Cons
+There is no documentation for reference
+A bias depending on the tester can exist
+Critical bugs can be missed .
+Automation Testing :
+ 
+Pros 
+Good in finding functional defects .
+Standardized tests help in repeatability .
+Cons
+Fewer bugs are found
+Focuses on limited areas constrained by the script
+ 
+In conclusion , Exploratory testing is performed to overcome the limitations of scripted testing. It helps in improving Test suite. It empathizes on learning and adaptability.
+Checklists for an efficient automation framework - 
+Identify which test scenarios needs to automated 
+Choosing a Test automation tool
+Identify and ability to create test data Via automation test scripts 
+Having stable test environments .
+Configuring and Running automation scripts in the test environment .
+
+
+Share any experience where you have driven quality process improvements :
+
+In Fast paced environments , As agile tester Iam firm believer of teamwork , conducting bug bush sessions within the team and wider group in William hill whenever a new feature is launched .
+I was conducting the QA chapter sessions across different team QA members , Ensuring the QA practices are in place. 
+Introducing the QA estimation for every new feature in backlog grooming sessions in tabcorp for each user story .
