@@ -1,1 +1,16 @@
 
+Exploratory Testing Scenarios  : 
+1.User is able to launch the Urls on different browsers 
+Chrome , 
+Safari 
+IE edge 
+2.Users are able view the headers , footers and  contents of the web page .
+3.User is able to view the Scrolling advertisements on the this page 
+4.User should able to view in all three break points :
+Mobile view 
+Desktop view 
+iPad /Tablet view
+5.Users are able to redirect to the login page if you are an existing customer .
+6.If a new user , the user is able to redirect to the subscribe plan .
+7.All the Api ’s calls are  be 400 or 200 status code 
+8. User is able to view no javascript errors on console 
